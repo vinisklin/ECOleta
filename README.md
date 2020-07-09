@@ -71,12 +71,12 @@ To run this application you will need:
   - [Yarn](https://yarnpkg.com/)
   - [Expo](https://expo.io/)
 
-1. Clone this repository:
+1. ### Clone this repository:
 
 ```bash
   $ git clone https://github.com/vinisklin/ECOleta.git
 ```
-2. Run Back-End
+2. ### Run Back-End
 
 ```bash
   # Go into the backend folder
@@ -94,7 +94,7 @@ To run this application you will need:
   $ yarn dev
 ```
 
-3. Front-End
+3. ### Front-End
 
 ```bash
   # in another tab of the terminal install the frontend dependencies and run it 
@@ -103,7 +103,7 @@ To run this application you will need:
   $ yarn start
 ```
 
-4. Mobile
+4. ### Mobile
 
 The Application was developed using **Expo**. It is a free and open source toolchain built around **React Native** to facilitate the process of running and testing applications. [Click here](https://expo.io/learn) to get start with Expo.
 
@@ -129,4 +129,4 @@ Expo will open a page in your browser, scan the QRcode on the page and wait for 
 
 ---
 ## License
-This project is under the MIT license. See the LICENSE for more information
+This project is under the MIT license. See the [LICENSE](https://github.com/vinisklin/ECOleta/blob/master/LICENSE) for more information
